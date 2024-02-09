@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "0EEDy3YAPyRhSVHuNWdKeIMI6rfa8wyXxi5y2DiD+e7NSetW4OSNcfI4oT6tYBnG2LXrEm1b+XGPD0SsLfv1Aw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\celia\\Desktop\\Past Shadows\\SOURCES\\S1.01\\S1.01\\S1.01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\celia\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512",
+    "C:\\Users\\celia\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\celia\\.nuget\\packages\\monogame.extended\\3.8.0\\monogame.extended.3.8.0.nupkg.sha512",
+    "C:\\Users\\celia\\.nuget\\packages\\monogame.extended.content.pipeline\\3.8.0\\monogame.extended.content.pipeline.3.8.0.nupkg.sha512",
+    "C:\\Users\\celia\\.nuget\\packages\\monogame.extended.graphics\\3.8.0\\monogame.extended.graphics.3.8.0.nupkg.sha512",
+    "C:\\Users\\celia\\.nuget\\packages\\monogame.extended.tiled\\3.8.0\\monogame.extended.tiled.3.8.0.nupkg.sha512",
+    "C:\\Users\\celia\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\celia\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>P:/SAe/SAe 1.01/S1.01/S1.01/Content/Level_Grotte.tmx</SourceFile>
+  <SourceTime>2022-01-14T14:03:51.4781885+01:00</SourceTime>
+  <DestFile>P:/SAe/SAe 1.01/S1.01/S1.01/Content/bin/DesktopGL/Content/Level_Grotte.xnb</DestFile>
+  <DestTime>2022-01-14T14:04:02.0570807+01:00</DestTime>
+  <Importer>TiledMapImporter</Importer>
+  <ImporterTime>2020-08-29T19:17:30+02:00</ImporterTime>
+  <Processor>TiledMapProcessor</Processor>
+  <ProcessorTime>2020-08-29T19:17:30+02:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset>
+    <string>P:/SAe/SAe 1.01/S1.01/S1.01/Content/bin/DesktopGL/Content/tileset3_0.xnb</string>
+    <string>P:/SAe/SAe 1.01/S1.01/S1.01/Content/bin/DesktopGL/Content/background3_0.xnb</string>
+  </BuildAsset>
+  <BuildOutput />
+</PipelineBuildEvent>

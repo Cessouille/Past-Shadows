@@ -1,0 +1,99 @@
+{
+"textureAtlas": {
+    "texture": "boss.png",
+    "regionWidth": 200,
+    "regionHeight": 200
+  },
+  "cycles": {
+    "idled": {
+      "frames": [ 64, 65, 66, 67 ],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "marched": {
+      "frames": [ 96, 97, 98, 99, 100, 101, 102, 103 ],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "sautd": {
+      "frames": [ 80, 81 ],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "chuted": {
+      "frames": [ 48, 49 ],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "degatsd": {
+      "frames": [ 112, 113, 114 ],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "mortd": {
+      "frames": [ 32, 33, 34, 35, 36, 37, 38 ],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "attaque1d": {
+      "frames": [ 0, 1, 2, 3],
+      "isLooping": false,
+      "frameDuration": 0.1
+    },
+    "attaque2d": {
+      "frames": [ 16, 17, 18, 19 ],
+      "isLooping": false,
+      "frameDuration": 0.1
+    },
+    "vraie mortd": {
+      "frames": [ 38 ],
+      "isLooping": true,
+      "frameDuration": 0.2
+    },
+    "idleg": {
+      "frames": [ 79, 78, 77, 76 ],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "marcheg": {
+      "frames": [ 111, 110, 109, 108, 107, 106, 105, 104],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "sautg": {
+      "frames": [ 95, 94 ],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "chuteg": {
+      "frames": [ 63, 62 ],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "degatsg": {
+      "frames": [ 127, 126, 125 ],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "mortg": {
+      "frames": [ 47, 46, 45, 44, 43, 42, 41 ],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "attaque1g": {
+      "frames": [ 15, 14, 13, 12 ],
+      "isLooping": false,
+      "frameDuration": 0.1
+    },
+    "attaque2g": {
+      "frames": [ 31, 30, 29, 28 ],
+      "isLooping": false,
+      "frameDuration": 0.1
+    },
+    "vraie mortg": {
+      "frames": [ 41 ],
+      "isLooping": true,
+      "frameDuration": 0.2
+    }
+  }
+}

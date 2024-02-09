@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/celia/Desktop/Past Shadows/SOURCES/S1.01/S1.01/Content/accueil.png</File>
+    <File>C:/Users/celia/Desktop/Past Shadows/SOURCES/S1.01/S1.01/Content/background1.png</File>
+    <File>C:/Users/celia/Desktop/Past Shadows/SOURCES/S1.01/S1.01/Content/boss.png</File>
+    <File>C:/Users/celia/Desktop/Past Shadows/SOURCES/S1.01/S1.01/Content/boutonInfo.png</File>
+    <File>C:/Users/celia/Desktop/Past Shadows/SOURCES/S1.01/S1.01/Content/boutonJouer.png</File>
+    <File>C:/Users/celia/Desktop/Past Shadows/SOURCES/S1.01/S1.01/Content/boutonQuitter.png</File>
+    <File>C:/Users/celia/Desktop/Past Shadows/SOURCES/S1.01/S1.01/Content/boutonQuitter2.png</File>
+    <File>C:/Users/celia/Desktop/Past Shadows/SOURCES/S1.01/S1.01/Content/boutonRejouer.png</File>
+    <File>C:/Users/celia/Desktop/Past Shadows/SOURCES/S1.01/S1.01/Content/champignon.png</File>
+    <File>C:/Users/celia/Desktop/Past Shadows/SOURCES/S1.01/S1.01/Content/GameOver.png</File>
+    <File>C:/Users/celia/Desktop/Past Shadows/SOURCES/S1.01/S1.01/Content/mt_fugi2.jpg</File>
+    <File>C:/Users/celia/Desktop/Past Shadows/SOURCES/S1.01/S1.01/Content/perso.png</File>
+    <File>C:/Users/celia/Desktop/Past Shadows/SOURCES/S1.01/S1.01/Content/planche.png</File>
+    <File>C:/Users/celia/Desktop/Past Shadows/SOURCES/S1.01/S1.01/Content/planche2.png</File>
+    <File>C:/Users/celia/Desktop/Past Shadows/SOURCES/S1.01/S1.01/Content/spider01.png</File>
+    <File>C:/Users/celia/Desktop/Past Shadows/SOURCES/S1.01/S1.01/Content/spritesheet-ennemi-2.png</File>
+    <File>C:/Users/celia/Desktop/Past Shadows/SOURCES/S1.01/S1.01/Content/tile_Forest1.png</File>
+    <File>C:/Users/celia/Desktop/Past Shadows/SOURCES/S1.01/S1.01/Content/tile_Forest2-1.png</File>
+    <File>C:/Users/celia/Desktop/Past Shadows/SOURCES/S1.01/S1.01/Content/tile_Forest2-2.png</File>
+    <File>C:/Users/celia/Desktop/Past Shadows/SOURCES/S1.01/S1.01/Content/Victory.png</File>
+    <File>C:/Users/celia/Desktop/Past Shadows/SOURCES/S1.01/S1.01/Content/worm.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

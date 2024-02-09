@@ -1,0 +1,39 @@
+{
+  "textureAtlas": {
+    "texture": "spider01.png",
+    "regionWidth": 64,
+    "regionHeight": 64
+  },
+  "cycles": {
+    "marched": {
+      "frames": [ 34, 35, 36, 37, 38, 39 ],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "marcheg": {
+      "frames": [ 14, 15, 16, 17, 18, 19 ],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "mort": {
+      "frames": [ 40, 41, 42, 43 ],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "vraie mort": {
+      "frames": [ 43 ],
+      "isLooping": true,
+      "frameDuration": 0.2
+    },
+    "coupd": {
+      "frames": [ 40, 41, 42, 43 ],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "coupg": {
+      "frames": [ 30, 31, 32, 33 ],
+      "isLooping": false,
+      "frameDuration": 0.2
+    }
+  }
+}

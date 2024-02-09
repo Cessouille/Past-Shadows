@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="S1._01.Game1" Collapsed="true">
+    <Position X="4.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>TKwIGQAAAEAAYwAiUIJkrIV6ZKBAgDfyYICBIAgZHIQ=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="S1._01.GameOver" Collapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAACAAAAAAAwAAAAAAAAAAAIAAAAIBAEAABQAAAAQ=</HashCode>
+      <FileName>GameOver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="S1._01.Niveau1" Collapsed="true">
+    <Position X="6.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAACAAAAAAAgAAABAAABAAAAAAAAAAAAEAAQAIAAQ=</HashCode>
+      <FileName>Niveau1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="S1._01.Niveau2" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAACAAAAAAAgAAABAAABAAAAAAAAAAAAEAAQAIAAQ=</HashCode>
+      <FileName>Niveau2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="S1._01.Victory" Collapsed="true">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAACAAAAAAAwAAAAAAAAAAAIAAAAIBAEAABQAAAAQ=</HashCode>
+      <FileName>Victory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

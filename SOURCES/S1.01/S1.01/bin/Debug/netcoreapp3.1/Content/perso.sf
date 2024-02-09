@@ -1,0 +1,109 @@
+{
+  "textureAtlas": {
+    "texture": "perso.png",
+    "regionWidth": 200,
+    "regionHeight": 120
+  },
+  "cycles": {
+    "idled": {
+      "frames": [ 48, 49, 50, 51, 52, 53, 54 ],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "marched": {
+      "frames": [ 32, 33, 34, 35, 36, 37, 38 ],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "sautd": {
+      "frames": [ 64, 65 ],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "chuted": {
+      "frames": [ 66, 67 ],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "degatsd": {
+      "frames": [ 80, 81, 82, 83 ],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "mortd": {
+      "frames": [ 96, 97, 98, 99, 100, 101 ],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "vraie mortd": {
+      "frames": [ 101 ],
+      "isLooping": true,
+      "frameDuration": 0.2
+    },
+    "coup simple d": {
+      "frames": [ 0, 3, 4, 5, 16, 17 ],
+      "isLooping": false,
+      "frameDuration": 0.1
+    },
+    "coup double d": {
+      "frames": [ 0, 3, 4, 5, 16, 17, 19, 20, 21 ],
+      "isLooping": false,
+      "frameDuration": 0.1
+    },
+    "ranged": {
+      "frames": [ 3, 2, 1, 0 ],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "idleg": {
+      "frames": [ 63, 62, 61, 60, 59, 58, 57 ],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "marcheg": {
+      "frames": [ 47, 46, 45, 44, 43, 42, 41 ],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "sautg": {
+      "frames": [ 79, 78 ],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "chuteg": {
+      "frames": [ 77, 76 ],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "degatsg": {
+      "frames": [ 95, 94, 93, 92 ],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "mortg": {
+      "frames": [ 111, 110, 109, 108, 107, 106 ],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "vraie mortg": {
+      "frames": [ 106 ],
+      "isLooping": true,
+      "frameDuration": 0.2
+    },
+    "coup simple g": {
+      "frames": [ 15, 12, 11, 10, 31, 30 ],
+      "isLooping": false,
+      "frameDuration": 0.1
+    },
+    "coup double g": {
+      "frames": [ 15, 12, 11, 10, 31, 30, 28, 27, 26 ],
+      "isLooping": false,
+      "frameDuration": 0.1
+    },
+    "rangeg": {
+      "frames": [ 12, 13, 14, 15 ],
+      "isLooping": false,
+      "frameDuration": 0.2
+    }
+  }
+}

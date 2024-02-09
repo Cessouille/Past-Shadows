@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/celia/Desktop/S1.01/S1.01/S1.01/Content/MapLvl2.tmx</SourceFile>
+  <SourceTime>2022-01-14T13:30:20+01:00</SourceTime>
+  <DestFile>C:/Users/celia/Desktop/S1.01/S1.01/S1.01/Content/bin/DesktopGL/Content/MapLvl2.xnb</DestFile>
+  <DestTime>2022-01-19T12:29:45.1696749+01:00</DestTime>
+  <Importer>TiledMapImporter</Importer>
+  <ImporterTime>2020-08-29T19:17:30+02:00</ImporterTime>
+  <Processor>TiledMapProcessor</Processor>
+  <ProcessorTime>2020-08-29T19:17:30+02:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset>
+    <string>C:/Users/celia/Desktop/S1.01/S1.01/S1.01/Content/bin/DesktopGL/Content/tileset2_0.xnb</string>
+    <string>C:/Users/celia/Desktop/S1.01/S1.01/S1.01/Content/bin/DesktopGL/Content/Muraille2_0.xnb</string>
+    <string>C:/Users/celia/Desktop/S1.01/S1.01/S1.01/Content/bin/DesktopGL/Content/CielNoir_0.xnb</string>
+    <string>C:/Users/celia/Desktop/S1.01/S1.01/S1.01/Content/bin/DesktopGL/Content/background2_0.xnb</string>
+  </BuildAsset>
+  <BuildOutput />
+</PipelineBuildEvent>
